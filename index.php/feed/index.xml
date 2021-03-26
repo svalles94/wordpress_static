@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Fluid Coffee Bar</title>
-	<atom:link href="http://svalles94.github.io/FluidCoffee/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link>http://svalles94.github.io/FluidCoffee</link>
+	<atom:link href="https://svalles94.github.io/FluidCoffee/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://svalles94.github.io/FluidCoffee</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 31 Dec 2020 08:33:15 +0000</lastBuildDate>
 	<language>en-US</language>
